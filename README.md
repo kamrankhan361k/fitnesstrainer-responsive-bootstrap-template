@@ -1,0 +1,1 @@
+# fitnesstrainer-responsive-bootstrap-template
